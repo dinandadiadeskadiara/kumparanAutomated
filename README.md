@@ -6,6 +6,12 @@ this is a my first project at github that I'm uploaded
  ini this project i'm using automated test script based on javascript code that usually used on the website
  
  
- To use the script :
+ This project contain:
 
-1. 
+1. Register Form test( password field)
+2. Register Form test( username field)
+3. Register Form test( email field)
+4. Login Form test(username field)
+5. Login Form( password Test)
+
+all using valid and invalid method to perform the test.Including some of test cases that I'm tested also following the test step and test result on a excel file
