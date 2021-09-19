@@ -14,4 +14,9 @@ this is a my first project at github that I'm uploaded
 4. Login Form test(username field)
 5. Login Form( password Test)
 
-all using valid and invalid method to perform the test.Including some of test cases that I'm tested also following the test step and test result on a excel file
+all using valid and invalid method to perform the test.Including some of test cases that I'm tested also following the test step and test result on a excel file.
+
+======API TEST =========
+
+API TEST using POSTMAN method with generated script and result displayed on a authorization and header view.
+Authorization using basic authorization with user's username and password.
