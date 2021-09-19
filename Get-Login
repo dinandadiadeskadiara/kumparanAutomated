@@ -1,0 +1,9 @@
+URL url = new URL("https://kumparan.com/login");
+HttpURLConnection http = (HttpURLConnection)url.openConnection();
+http.setRequestMethod("POST");
+http.setDoOutput(true);
+http.setRequestProperty("Content-Type", "application/json");
+http.setRequestProperty("Content-Length", "0");
+
+System.out.println(http.getResponseCode() + " " + http.getResponseMessage());
+http.disconnect();
