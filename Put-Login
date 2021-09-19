@@ -1,0 +1,28 @@
+PUT /login HTTP/1.1
+Authorization: Basic ZGVza2FsaWVtMTFAeWFob28uY29tOkZlZWwxMjM=
+Host: kumparan.com
+Content-Type: application/json
+Content-Length: 0
+
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Origin, Accept-Encoding
+Access-Control-Allow-Credentials: true
+Service-Worker-Allowed: *
+Set-Cookie: web_tracker_userId=; Max-Age=63071; Domain=kumparan.com; Path=/; Expires=Sun, 19 Sep 2021 23:45:41 GMT
+kum-cch: 1
+Nginx-Version: production-85
+We-Hiring: dev@kumparan.com
+Mail-Subject: Join via header
+X-Content-Type-Options: nosniff
+x-xss-protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+set-cookie: web_tracker_cookieId=31981ecc-da59-48ad-b9e8-55a5f45fbf49; Max-Age=31536000; Domain=kumparan.com; Path=/; Expires=Mon, 19 Sep 2022 06:14:29 GMT
+set-cookie: web_tracker_userAliasId=d75dfff2-cd53-44d7-ac87-44369822789e; Max-Age=31536000; Domain=kumparan.com; Path=/; Expires=Mon, 19 Sep 2022 06:14:29 GMT
+CF-Cache-Status: DYNAMIC
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+CF-RAY: 6910ac933f4717dd-EWR
+Content-Encoding: gzip
+
